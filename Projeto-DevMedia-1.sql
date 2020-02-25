@@ -42,11 +42,11 @@ VALUES ('35.00','2018-05-15',1),('35.00','2018-06-15',1),('35.00','2018-07-15',1
 
 
 -- DQL
-SELECT categoria.nome, Produto.nome, Produto.preco, Produto.id_categoria, venda.valor,venda.datavenda,venda.id_produto
-FROM Produto, venda
-INNER JOIN Produto
-ON Produto.id_produto = venda.id_produto
+SELECT categoria.nome, Produto.nome, Produto.preco, venda.valor,venda.datavenda,venda.id_produto, Produto.id_categoria
+FROM Produto
+INNER JOIN categoria
+ON categoria.id_categoria = produto.id_categoria
+INNER JOIN venda
+ON venda.id_produto = produto.id_produto
 
- 
 
-ON P.id_produto =  V.id_produto

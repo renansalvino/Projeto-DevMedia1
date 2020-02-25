@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Renan\\Desktop\\Back-End API\\Projeto DevMedia1\\ProjetoDevMedia1\\ProjetoDevMedia1\\ProjetoDevMedia1.csproj",
-      "projectName": "ProjetoDevMedia1",
-      "projectPath": "C:\\Users\\Renan\\Desktop\\Back-End API\\Projeto DevMedia1\\ProjetoDevMedia1\\ProjetoDevMedia1\\ProjetoDevMedia1.csproj",
+      "projectUniqueName": "C:\\Users\\Renan\\Desktop\\Projetos\\DevMedia1\\DevMedia1\\DevMedia1\\DevMedia1.csproj",
+      "projectName": "DevMedia1",
+      "projectPath": "C:\\Users\\Renan\\Desktop\\Projetos\\DevMedia1\\DevMedia1\\DevMedia1\\DevMedia1.csproj",
       "packagesPath": "C:\\Users\\Renan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Renan\\Desktop\\Back-End API\\Projeto DevMedia1\\ProjetoDevMedia1\\ProjetoDevMedia1\\obj\\",
+      "outputPath": "C:\\Users\\Renan\\Desktop\\Projetos\\DevMedia1\\DevMedia1\\DevMedia1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
