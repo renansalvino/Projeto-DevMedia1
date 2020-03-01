@@ -5,7 +5,8 @@ using System.Threading.Tasks;
 
 namespace DevMedia1.Interfaces
 {
-    interface _
+    interface ICateegorias
     {
+
     }
 }

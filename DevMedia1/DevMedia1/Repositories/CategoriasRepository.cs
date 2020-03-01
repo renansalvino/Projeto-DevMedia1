@@ -7,5 +7,6 @@ namespace DevMedia1.Repositories
 {
     public class CategoriasRepository
     {
+
     }
 }
